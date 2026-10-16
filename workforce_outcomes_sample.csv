@@ -1,0 +1,11 @@
+participant_id,training_completed,training_hours,placement_within_90_days,starting_wage,retention_6mo,industry_sector
+W00001,1,99,0,16.79,0,Manufacturing
+W00002,1,72,0,12.94,1,Manufacturing
+W00003,0,35,1,15.23,1,Healthcare
+W00004,1,48,1,18.45,1,Construction
+W00005,0,12,0,14.10,0,Retail
+W00006,1,85,1,17.32,1,Healthcare
+W00007,1,60,0,13.87,0,Other
+W00008,0,22,1,16.05,1,Manufacturing
+W00009,1,110,1,19.78,1,Construction
+W00010,1,40,0,15.50,0,Retail
